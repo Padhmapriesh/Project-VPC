@@ -12,5 +12,8 @@ To connect your VPC to the internet or other networks, you can set up gateways o
 
 With a VPC, you have control over your network environment. You can define access rules, set up firewalls, and configure security groups to regulate who can access your resources and how they can communicate.
 
+<img width="611" height="481" alt="248278052-89d8316e-7b70-4821-a6bf-67d1dcc4d2fb" src="https://github.com/user-attachments/assets/96bdf478-5d07-4655-8abc-a8bdae3625b6" />
+
+
 
 
